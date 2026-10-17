@@ -1,0 +1,9 @@
+torch
+torchvision
+h5py
+hdf5plugin
+scikit-learn
+numpy
+matplotlib
+joblib
+jupyter

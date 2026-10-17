@@ -1,3 +1,8 @@
+import os
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
+
 from local_module import dir_file_path, norm, H5Dataset
 from sklearn.mixture import GaussianMixture
 
